@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Credentials
+.env
+**/.env
+
+pipeline/credentials/
+*.json
+
+# Logs
+logs/
+*.log
+
+# Model
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
